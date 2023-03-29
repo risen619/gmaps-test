@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-api-script-fail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
